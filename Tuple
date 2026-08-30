@@ -1,2 +1,0 @@
-What is a Tuple in Python?
-A tuple is a collection of multiple values stored together. It is similar to a list, but a tuple is immutable, meaning we cannot change its elements after creating it.
